@@ -1,14 +1,12 @@
 # LED Grid to HyperHDR JSON Converter
 
-Convert Google Sheet LED mappings to HyperHDR JSON format with support for hexagonal arrangements, monitor backlighting, and LED walls.
+Convert Google Sheet LED mappings to HyperHDR JSON format with support for irregular arrangements, monitor backlighting, and LED walls.
 
-## ✨ New: Ambient Mode
-
-**Perfect for hexagonal LED shelves around monitors!** Ambient mode intelligently blends between ambilight (edge sampling) and wall (position sampling) based on LED distance from the screen.
+This was vibe coded to solve a specific personal use case in Hyperion/HyperHDR. Posting here in case anyone else might find it useful.
 
 ## Features
 
-🎨 **Ambient Mode** - Hybrid for LED walls/shelves around monitors (RECOMMENDED for hexagonal setups)  
+🎨 **Ambient Mode** - Hybrid for LED walls/shelves around monitors (RECOMMENDED for irregular setups)  
 🖥️ **Perimeter Mode** - Classic monitor backlighting  
 📺 **Wall Mode** - Full LED matrix displays  
 📐 **Boundary Markers** - Use 'x' to define your monitor area  
